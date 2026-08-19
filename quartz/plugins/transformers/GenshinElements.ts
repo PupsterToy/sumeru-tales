@@ -59,7 +59,7 @@ export const GenshinElements: QuartzTransformerPlugin = () => {
                       alt: `:${name}:`,
                       data: {
                         hProperties: {
-                          style: "height: 1.2em; width: auto; vertical-align: middle; margin: 0 2px;"
+                          style: "height: 1.2em; width: auto; vertical-align: middle; margin: 0 2px; filter: drop-shadow(0 0 1px rgba(50, 50, 50, 0.5));"
                         }
                       }
                     })
