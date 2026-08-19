@@ -8,7 +8,7 @@ order: 1
 # ◈ Chimeric Winged Lion (Химера) ◈ 
 
 
-| ![[//Images/Stygian_Chimera_ru.png\|500]] |
+| ![[images/Stygian_Chimera_ru.png\|500]] |
 | ---------------------------------- |
 | _Нажмите на изображения для увеличения_ |
 
@@ -58,7 +58,7 @@ order: 1
 # ◈ Veteran Anemo Operative (Анемо Оперативник) ◈
 
 
-| ![[Images/Stygian_Anemo_Operative_ru.png\|500]] |
+| ![[images/Stygian_Anemo_Operative_ru.png\|500]] |
 | ------------------------------------- |
 | _Нажмите на изображения для увеличения_ |
 
@@ -115,7 +115,7 @@ order: 1
 # ◈ Knuckle Duckle (Утка) ◈
 
 
-| ![[Images/Stygian_Duck_ru.png\|500]] |
+| ![[images/Stygian_Duck_ru.png\|500]] |
 | ------------------------------- |
 | _Нажмите на изображения для увеличения_ |
 

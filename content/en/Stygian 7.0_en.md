@@ -8,7 +8,7 @@ order: 1
 # ◈ Chimeric Winged Lion (Chimera) ◈ 
 
 
-| ![[Images/Stygian_Chimera_en.png\|500]] |
+| ![[images/Stygian_Chimera_en.png\|500]] |
 | ---------------------------------- |
 | _Click image to zoom in_ |
 
@@ -58,7 +58,7 @@ The boss creates a vortex around itself for ~10s that pulls in :anemo:️{Anemo|
 # ◈ Veteran Anemo Operative (Anemo Operative) ◈
 
 
-| ![[Images/Stygian_Anemo_Operative_en.png\|500]] |
+| ![[images/Stygian_Anemo_Operative_en.png\|500]] |
 | ------------------------------------- |
 | _Click image to zoom in_ |
 
@@ -115,7 +115,7 @@ The boss creates a vortex around itself for ~10s that pulls in :anemo:️{Anemo|
 # ◈ Knuckle Duckle (Duck) ◈
 
 
-| ![[Images/Stygian_Duck_en.png\|500]] |
+| ![[images/Stygian_Duck_en.png\|500]] |
 | ------------------------------- |
 | _Click image to zoom in_ |
 
