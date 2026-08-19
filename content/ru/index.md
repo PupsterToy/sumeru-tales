@@ -28,7 +28,7 @@ lang: ru
   
 ### ✦ Гайды по персам  
 - Одетта: [1](https://youtu.be/5GHbCkNpdNU?si=svdeo0Ro43tM-2cx) | [2](https://youtu.be/as228r_ar_g?si=uCvoUZjpdYBbnLXM) | [3](https://t.co/Fe2CnxIWof) | [4](https://mobalytics.gg/genshin-impact/characters/odette-build-guide) | [5](https://youtu.be/eT0IYuVuLYU?si=GRWb4ECwWCEwUfhd) | [6](https://youtu.be/itq8J0ovoJE?si=A95vEdHTBkdApHWn)    
-- Крио ГГ: [1](https://youtu.be/COuDXE78ZVE?si=NneHoJpQcYpXAr1F) | [2](https://youtu.be/JAbfWSwd1lY?si=qoyvp-EDX76X128i) | [3](https://youtu.be/fUeBHNOvSpI?si=r5aI8b4E8q0TDjia) [4](https://mobalytics.gg/genshin-impact/characters/traveler-cryo-build-guide)    
+- Крио ГГ: [1](https://youtu.be/COuDXE78ZVE?si=NneHoJpQcYpXAr1F) | [2](https://youtu.be/JAbfWSwd1lY?si=qoyvp-EDX76X128i) | [3](https://youtu.be/fUeBHNOvSpI?si=r5aI8b4E8q0TDjia) | [4](https://mobalytics.gg/genshin-impact/characters/traveler-cryo-build-guide)    
 - Сандроне: [1](https://mobalytics.gg/genshin-impact/characters/sandrone-build-guide) | [2](https://youtu.be/eT0IYuVuLYU?si=GRWb4ECwWCEwUfhd)    
 - Мидзуки: [1](https://youtu.be/f7_tcdoSixM?si=pAhyYkwimtbPgTt7) | [2](https://youtu.be/xpsUA0yxZC4?si=1o730nfDH-2a3ADZ) | [3](https://mobalytics.gg/genshin-impact/characters/yumemizuki-mizuki-build-guide)  
 - Сайно: [1](https://youtu.be/IVsEdsVhlB8?si=u9wBiz6puVGElZFk)

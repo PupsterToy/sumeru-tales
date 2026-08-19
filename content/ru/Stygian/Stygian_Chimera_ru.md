@@ -6,7 +6,7 @@ lang: ru
 # ◈ Chimeric Winged Lion (Химера) ◈ 
 
 
-| ![[./sumeru-tales/images/Stygian_Chimera_ru.png\|500]] |
+| ![[./images/Stygian_Chimera_ru.png\|500]] |
 | ---------------------------------- |
 | _Нажмите на изображения для увеличения_ |
 
