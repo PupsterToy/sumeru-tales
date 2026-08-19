@@ -287,8 +287,8 @@ plugins:
       links:
         X: https://x.com/Sumeru_Tales
         Telegram: https://t.me/Sumeru_Tales
-        English: en/index
-        Русский: ru/index
+        English: https://pupstertoy.github.io/sumeru-tales/en/
+        Русский: https://pupstertoy.github.io/sumeru-tales/ru/
     order: 50
 layout:
   groups:
