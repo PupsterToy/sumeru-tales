@@ -7,7 +7,7 @@ lang: ru
 # ◈ Veteran Anemo Operative (Анемо Оперативник) ◈
 
 
-| ![[/Images/Stygian_Anemo_Operative_ru.png\|500]] |
+| ![[content/images/Stygian_Anemo_Operative_ru.png\|500]] |
 | ------------------------------------- |
 | _Нажмите на изображения для увеличения_ |
 
