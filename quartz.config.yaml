@@ -287,8 +287,8 @@ plugins:
       links:
         X: https://x.com/Sumeru_Tales
         Telegram: https://t.me/Sumeru_Tales
-        English: sumeru-tales/en/index
-        Русский: sumeru-tales/ru/index
+        English: en/index
+        Русский: ru/index
     order: 50
 layout:
   groups:
