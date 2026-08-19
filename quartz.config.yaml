@@ -74,7 +74,7 @@ plugins:
       position: right
       priority: 30
   - source: "@quartz-community/crawl-links"
-    enabled: true
+    enabled: false
     options:
       markdownLinkResolution: short
     order: 60
@@ -264,7 +264,7 @@ plugins:
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
-      markdownLinkResolution: absolute
+      markdownLinkResolution: relative
       prettyLinks: true
       openLinksInNewTab: true
       lazyLoad: true
