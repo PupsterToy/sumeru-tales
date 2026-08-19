@@ -55,7 +55,7 @@ export const GenshinElements: QuartzTransformerPlugin = () => {
                     // Используем нативный узел картинки, путь /file.png означает корень сайта
                     newNodes.push({
                       type: "image",
-                      url: `sumeru-tales/images/icons/${imgFile}`,
+                      url: `images/icons/${imgFile}`,
                       alt: `:${name}:`,
                       data: {
                         hProperties: {
