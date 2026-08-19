@@ -38,6 +38,36 @@ export default (() => {
     const coreScript = js.find(
       (r) => r.loadTime === "beforeDOMReady" && r.contentType === "external",
     )
+	
+	// Внутри Head: QuartzComponent = (...) => { ...
+
+	const externalFooterScript = `
+	  function fixFooterLinks() {
+		const footerLinks = document.querySelectorAll("footer a, .footer a");
+		footerLinks.forEach((link) => {
+		  const href = link.getAttribute("href");
+		  if (!href) return;
+
+		  const isExternal =
+			(href.startsWith("http://") || href.startsWith("https://")) &&
+			link.hostname !== window.location.hostname;
+
+		  if (isExternal) {
+			link.setAttribute("target", "_blank");
+			link.setAttribute("rel", "noopener noreferrer");
+		  }
+		});
+	  }
+
+	  // Запуск при обычной загрузке страницы
+	  document.addEventListener("DOMContentLoaded", fixFooterLinks);
+
+	  // Запуск при SPA-переходах Quartz (событие "nav")
+	  document.addEventListener("nav", fixFooterLinks);
+
+	  // На случай задержки рендера плагинов
+	  setTimeout(fixFooterLinks, 500);
+	`
 
     return (
       <head>
@@ -104,6 +134,8 @@ export default (() => {
             return resource
           }
         })}
+		
+		<script dangerouslySetInnerHTML={{ __html: externalFooterScript }} />
       </head>
     )
   }

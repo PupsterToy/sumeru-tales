@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "crawl-links": {
+      "source": "github:quartz-community/crawl-links",
+      "resolved": "https://github.com/quartz-community/crawl-links.git",
+      "commit": "2673605b9d47a84cc1b0a4a119fe6dfd116b7762",
+      "installedAt": "2026-08-13T15:00:31.116Z"
+    },
+    "explorer": {
+      "source": "github:quartz-community/explorer",
+      "resolved": "https://github.com/quartz-community/explorer.git",
+      "commit": "06ea3d8e206f0edaab08556191adc75b2403e832",
+      "installedAt": "2026-08-14T12:14:51.233Z"
+    },
+    "footer": {
+      "source": "github:quartz-community/footer",
+      "resolved": "https://github.com/quartz-community/footer.git",
+      "commit": "9551f6dba23e31d75fbc43a0f78ff2c7450176a0",
+      "installedAt": "2026-08-18T20:47:32.608Z"
+    },
+    "quartz-image-zoom": {
+      "source": "github:PupsterToy/quartz-image-zoom",
+      "resolved": "https://github.com/PupsterToy/quartz-image-zoom.git",
+      "commit": "8fa3516bbefcc17719a1e10cd3c5f089032d67c0",
+      "installedAt": "2026-08-13T14:29:31.482Z"
+    }
+  }
+}

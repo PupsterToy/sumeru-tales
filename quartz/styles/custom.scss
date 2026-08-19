@@ -1,3 +1,36 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+.page-listing .tags {
+  display: none;
+}
+
+body {
+    font-size: 1.1rem; // Увеличивает шрифт на 10% относительно базового
+}
+
+:root {
+  --electro: #be9cfb;
+  --anemo: #7ddbbf;
+  --cryo: #8fe6f5;
+  --pyro: #f28e70;
+  --hydro: #7ab6ff;
+  --dendro: #aad97a;
+  --geo: #e7c76e;
+  --llc: #d6b8ec;
+  --sg: #ecd992;
+  --bol: #ef645e;
+}
+
+/* Стили для кастомных эмодзи, чтобы они смотрелись в строке */
+.genshin-emoji {
+  height: 1.2em;
+  width: auto;
+  vertical-align: middle;
+  margin: 0 2px;
+}
+
+// Отменяем превращение подписи в блок для наших инлайн-картинок
+// p > img + em {
+  // display: inline !important;
+  // transform: none !important;
+// }
