@@ -7,7 +7,7 @@ lang: ru
 # ◈ Knuckle Duckle (Утка) ◈
 
 
-| ![[Images/Stygian_Duck_ru.png\|500]] |
+| ![[sumeru-tales/images/Stygian_Duck_ru.png\|500]] |
 | ------------------------------- |
 | _Нажмите на изображения для увеличения_ |
 

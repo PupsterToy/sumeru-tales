@@ -6,7 +6,7 @@ lang: en
 # ◈ Knuckle Duckle (Duck) ◈
 
 
-| ![[Images/Stygian_Duck_en.png\|500]] |
+| ![[sumeru-tales/images/Stygian_Duck_en.png\|500]] |
 | ------------------------------- |
 | _Click image to zoom in_ |
 
