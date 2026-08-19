@@ -8,7 +8,7 @@ order: 1
 # ◈ Chimeric Winged Lion (Химера) ◈ 
 
 
-| ![[/Images/Stygian_Chimera_ru.png\|500]] |
+| ![[//Images/Stygian_Chimera_ru.png\|500]] |
 | ---------------------------------- |
 | _Нажмите на изображения для увеличения_ |
 
