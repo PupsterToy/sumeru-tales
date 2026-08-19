@@ -1,5 +1,5 @@
 ---
-title: EN
+title: Sumeru Tales
 lang: en
 ---
 

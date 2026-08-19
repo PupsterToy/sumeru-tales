@@ -1,5 +1,5 @@
 ---
-title: RU
+title: Сумерские сказки
 lang: ru
 ---
 

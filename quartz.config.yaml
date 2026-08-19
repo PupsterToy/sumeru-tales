@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Сумерские сказки 𓄤𓆑𓂋 | Sumeru Tales
+  pageTitle: ""
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
