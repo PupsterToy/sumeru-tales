@@ -9,15 +9,15 @@ body {
 }
 
 :root {
-  --electro: #be9cfb;
-  --anemo: #7ddbbf;
-  --cryo: #8fe6f5;
-  --pyro: #f28e70;
-  --hydro: #7ab6ff;
-  --dendro: #aad97a;
-  --geo: #e7c76e;
-  --llc: #d6b8ec;
-  --sg: #ecd992;
+  --electro: #af90e8;
+  --anemo: #79cfb5;
+  --cryo: #89dceb;
+  --pyro: #e08367;
+  --hydro: #73abef;
+  --dendro: #a0cc73;
+  --geo: #dbbc67;
+  --llc: #c6aada;
+  --sg: #decd8a;
   --bol: #ef645e;
 }
 
@@ -27,6 +27,7 @@ body {
   width: auto;
   vertical-align: middle;
   margin: 0 2px;
+  filter: drop-shadow(0 0 1px rgba(50, 50, 50, 0.5));
 }
 
 // Отменяем превращение подписи в блок для наших инлайн-картинок
