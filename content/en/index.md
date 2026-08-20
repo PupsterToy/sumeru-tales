@@ -11,7 +11,7 @@ lang: en
 | _Click image to zoom in_ |
 
 
-> ⚠️ Pre-release information, as well as Stygian guides/showcases (post-release), are posted here. This post will be updated with every beta after v5.  
+> ⚠️ Pre-release information, as well as Stygian guides/showcases (post-release), are posted here. This page will be updated with every beta after v5.  
 > ✅ Last updated: **_7.0 stygian_**
 
 --- 
