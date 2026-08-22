@@ -17,7 +17,7 @@ lang: en
 ### 📌 TLDR
 
 > [!note]- Click to expand
-> - **Phase 1:** :electro:{Electro|electro} shield  + :electro:{Electro|electro} and :anemo:️{Anemo|anemo} RES **50%**.  :sc:{SSC|sg} damage → **-40%** shield (once per phase). Recorded damage at a **{10|sg}:3**, converted to boss damage on shield break. After – stun, :cryo:{Cryo|cryo} and :anemo:️{Anemo anemo} RES **-120%**, others **-60%**.
+> - **Phase 1:** :electro:{Electro|electro} shield  + :electro:{Electro|electro} and :anemo:️{Anemo|anemo} RES **50%**.  :sc:{SSC|sg} damage → **-40%** shield (once per phase). Recorded damage at a **{10|sg}:3**, converted to boss damage on shield break. After – stun, :cryo:{Cryo|cryo} and :anemo:️{Anemo|anemo} RES **-120%**, others **-60%**.
 >
 > - **Phase 2:** Flies around arena → lands and fires :anemo:️{Anemo|anemo} + :electro:{Electro|electro} beams. 
 >
@@ -34,7 +34,7 @@ After dealing :sc:{SC|sg} (Stellar Conduct) damage, the shield loses **40%** of 
 Chimera quickly takes off and begins flying around the arena. During this time, you can deal damage with ranged attacks. After ~8s, it lands on the opposite side of the arena and starts firing :anemo:️{Anemo|anemo} and :electro:{Electro|electro} beams for ~11s.
 
 ## ⁘ Phase 3
-The boss creates a vortex around itself for ~10s that pulls in :anemo:️{Anemo|anemo} orbs spawning nearby (5 total: 3 closer and 2 farther). Your goal is to prevent the boss from absorbing more than **2 {orbs|anemo}**by popping them with elemental attacks, or you can **skip** this phase entirely by dealing any ✨{SG|sg} damage to the boss. After this, Chimera will be stunned again for ~13s (RES is also reduced). If it absorbs **3 {orbs|anemo}**, it deals AoE damage and starts flying around the arena again.
+The boss creates a vortex around itself for ~10s that pulls in :anemo:️{Anemo|anemo} orbs spawning nearby (5 total: 3 closer and 2 farther). Your goal is to prevent the boss from absorbing more than **2 {orbs|anemo}** by popping them with elemental attacks, or you can **skip** this phase entirely by dealing any ✨{SG|sg} damage to the boss. After this, Chimera will be stunned again for ~13s (RES is also reduced). If it absorbs **3 {orbs|anemo}**, it deals AoE damage and starts flying around the arena again.
 
 ✧ The phases then repeat. A full fight usually goes through 2 complete cycles.
 
