@@ -1,5 +1,5 @@
 ---
-title: Anemo Operative
+title: Operative (Anemo)
 lang: en
 ---
 
