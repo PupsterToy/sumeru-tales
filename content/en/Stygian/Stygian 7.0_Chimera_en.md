@@ -46,7 +46,8 @@ The boss creates a vortex around itself for ~10s that pulls in :anemo:️{Anemo|
 > - Upon dealing SG damage, 6 Energy Particles drop (Electro and Anemo respectively, once per phase)  
 > -  In Phase 1, you don't have to try to break the shield as quickly as possible – depending on your team, it may be more optimal to slow down when the shield has little durability left to set up a new rotation (e.g., Mavuika or charge Skirk's burst) to get the maximum benefit from the stun window with reduced RES 
 > - In Phase 2, during the beam attack, you can get behind the boss  
-> - To be precise, Chimera's mechanics in Phase 1 and 3 (removing 40% shield and skipping the Anemo orbs phase) do not depend on direct SG damage, but rather on the Radiance effect that characters and enemies receive after triggering SG (Stellar Glimmer – the general name for Stellar reactions). However, since the boss is under an Electro shield in Phase 1, you cannot trigger an SSW (Stellar Swirl) reaction. Additionally, Radiance from SSC has priority over the same effect from SSW
+> - To be precise, Chimera's mechanics in Phase 1 and 3 (removing 40% shield and skipping the Anemo orbs phase) do not depend on direct SG damage, but rather on the Radiance effect that characters and enemies receive after triggering SG (Stellar Glimmer – the general name for Stellar reactions). However, since the boss is under an Electro shield in Phase 1, you cannot trigger an SSW (Stellar Swirl) reaction. Additionally, Radiance from SSC has priority over the same effect from SSW  
+> - Funny bug – https://b23.tv/FXhp1NT
 
 #### ✦ Showcases   
  [1](https://youtu.be/xpsUA0yxZC4?si=vfy5UyflCjAfOVi6&t=1650) | [2](https://youtu.be/IVsEdsVhlB8?si=R_WP_GvtPjfsMsXF&t=783) | [3](https://youtu.be/dKcGT_7XFCs?si=GWb4vyLYYteCQk-a)
