@@ -6,14 +6,14 @@ lang: en
 > **✧ Stellar Glimmer** (SG) – is the collective name for the :sc:Stellar Conduct ({SSC|sg}) и :cryo_swirl:Stellar Swirl ({SSW|sg}) reactions. ✨ {SG|sg} can only be activated by characters with the corresponding passive talent.
 
 ## ⁘ Stellar Conduct
-The :sc:{SSC|sg} reaction triggers when :cryo:{Cryo|cryo} and :electro:{Electro|electro} (SC), creating a zone that lasts 5s and grants characters the corresponding Radiance effect (specified in their talents), as well as triggering additional negative effects on enemies (e.g. the [Chimera's](en/stygian/stygian_chimera_en) mechanics in Stygian Onslaught).
+The :sc:{SSC|sg} reaction triggers when :cryo:{Cryo|cryo} and :electro:{Electro|electro} (SC), creating a zone that lasts 5s and grants characters the corresponding Radiance effect (specified in their talents), as well as triggering additional negative effects on some enemies (e.g. the [Chimera's](en/stygian/stygian_chimera_en) mechanics in Stygian Onslaught).
 
 The field's duration is extended by repeatedly triggering :sc:SC. Enemies receive -40% :phys:Physical RES, while characters gain bonus :cryo:{Cryo|cryo} и :electro:{Electro|electro} DMG, plus the base multiplier of :sc:{SSC|sg}, increases depending on the number of field stacks (max 40% and x2.0, respectively).
 
 Stacks are accumulated from the number of :cryo:{Cryo|cryo} / :electro:{Electro|electro} applications and Swirl reactions (not :cryo_swirl:{SSW|sg}), up to a maximum of 12 stacks. They refresh every 4s and grant the above buffs for 4s.
 
 ## ⁘ Stellar Swirl
-The :cryo_swirl:{SSW|sg} reaction triggers when :cryo:{Cryo|cryo} is Swirled (dealing :anemo:{Anemo|anemo} :cryo_swirl:{SSW|sg} DMG), creating a small orb that lasts 3s. Similarly grants Radiance and weakens enemies.
+The :cryo_swirl:{SSW|sg} reaction triggers when :cryo:{Cryo|cryo} is Swirled (dealing :anemo:{Anemo|anemo} :cryo_swirl:{SSW|sg} DMG), creating a small orb that lasts 3s. Similarly grants Radiance and weakens some enemies.
 
 The orb records the number of Swirls, and after its duration expires, it explodes, dealing AoE :cryo:{Cryo|cryo} :cryo_swirl:{SSW|sg} DMG proportional to the recorded count. If you trigger more than 5 reactions within 3s – the orb explodes early.
 
