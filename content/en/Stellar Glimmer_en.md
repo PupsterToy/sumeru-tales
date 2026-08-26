@@ -8,7 +8,7 @@ lang: en
 ## ⁘ Stellar Conduct
 The :sc:{SSC|sg} reaction triggers when :cryo:{Cryo|cryo} and :electro:{Electro|electro} (SC), creating a zone that lasts 5s and grants characters the corresponding Radiance effect (specified in their talents), as well as triggering additional negative effects on enemies (e.g. the [Chimera's](en/stygian/stygian_chimera_en) mechanics in Stygian Onslaught).
 
-The field's duration is extended by repeatedly triggering :sc:SC. Enemies receive -40% :phys:Физ Physical RES, while characters gain bonus :cryo:{Cryo|cryo} и :electro:{Electro|electro} DMG, plus the base multiplier of :sc:{SSC|sg}, increases depending on the number of field stacks (max 40% and x2.0, respectively).
+The field's duration is extended by repeatedly triggering :sc:SC. Enemies receive -40% :phys:Physical RES, while characters gain bonus :cryo:{Cryo|cryo} и :electro:{Electro|electro} DMG, plus the base multiplier of :sc:{SSC|sg}, increases depending on the number of field stacks (max 40% and x2.0, respectively).
 
 Stacks are accumulated from the number of :cryo:{Cryo|cryo} / :electro:{Electro|electro} applications and Swirl reactions (not :cryo_swirl:{SSW|sg}), up to a maximum of 12 stacks. They refresh every 4s and grant the above buffs for 4s.
 
