@@ -21,7 +21,7 @@ lang: en
 > [!note]- Click to expand
 > - 🛡️ **Shield** = **22.5%** of its Max HP. Upon break, loses the corresponding amount of health.
 >
-> - 🩸 **{Bond of Life|bol}** applied to all party members on shield cast: **27100\29028** (D5\D6) + **8130\8708** every second while shield is active.
+> - 🩸 **{Bond of Life|bol}** applied to all party members on shield cast: **27100/29028** (D5/D6) + **8130/8708** every second while shield is active.
 >
 > - **Special attack:** consumes 🩸 **{5%|bol}** HP → on hit, inflicts 🩸 {Bond of Life|bol} and Bleed on active character + Operative restores  ❤️ **{5%|bol}** HP.
 >
@@ -40,7 +40,7 @@ lang: en
 1. Applies a 🛡 shield equal to **22.5%** of its Max HP. Upon break, loses the corresponding amount of health.
 <br>
 
-2. Immediately after casting the shield, applies 🩸 {Bond of Life|bol} to all party members worth **27100\29028** (D5\D6), adding an extra **8130\8708** very second while the shield is active.
+2. Immediately after casting the shield, applies 🩸 {Bond of Life|bol} to all party members worth **27100/29028** (D5/D6), adding an extra **8130/8708** very second while the shield is active.
 <br>
 
 3. Before performing the special attack, consumes 🩸 **{5%|bol}** of its own HP. On hit against your on-field character, the Operative not only inflicts 🩸 {Bond of Life|bol} and Bleed on them, but also restores ❤️ **{5%|bol}** HP.

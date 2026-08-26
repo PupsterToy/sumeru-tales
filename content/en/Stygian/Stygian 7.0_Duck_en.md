@@ -18,9 +18,9 @@ lang: en
 ### 📌 TLDR
 
 > [!note]- Click to expand
-> - 🛡️ **Shield** with **+210%** RES + summons **5 ducklings** (each = **25%** of boss HP :ec:{EC|electro} \ {LEC|llc} damage increased by **150%**).
+> - 🛡️ **Shield** with **+210%** RES + summons **5 ducklings** (each = **25%** of boss HP :ec:{EC|electro} / {LEC|llc} damage increased by **150%**).
 >
-> - Two ways to break the shield: destroy **ducklings** → **-25%** boss HP, or trigger 20 :ec:{EC|electro} \ {LEC|llc} **20 ** reactions → boss takes recorded damage. 
+> - Two ways to break the shield: destroy **ducklings** → **-25%** boss HP, or trigger 20 :ec:{EC|electro} / {LEC|llc} **20 ** reactions → boss takes recorded damage. 
 >
 > - After shield: stun :electro:{Electro|electro} RES **-110%**, others **-50%**. After stun: :electro:{Electro|electro} **-50%**, others **10%**. Recasts shield after **~45с**.
 
@@ -29,12 +29,12 @@ lang: en
 > ✧ This boss is significantly easier to defeat with :electro:{Electro|electro} characters, especially with a :ec:{LEC|llc} reaction. Characters with AoE damage are also a better fit.
 
 ## ⁘ Main mechanics
-1. Generates a 🛡 shield and increases all Elemental RES by **210%**. It then summons 5 minions (ducklings): each has HP equal to **25%** of the boss's max HP, **10%**, and takes **+150%** increased :ec:{EC|electro} \ {LEC|llc}. After that, the boss begins dashing across the arena.
+1. Generates a 🛡 shield and increases all Elemental RES by **210%**. It then summons 5 minions (ducklings): each has HP equal to **25%** of the boss's max HP, **10%**, and takes **+150%** increased :ec:{EC|electro} / {LEC|llc} damage. After that, the boss begins dashing across the arena.
 <br>
 
 	The shield can be broken in two ways:
 	- Destroy all ducklings – each removes **20%** of the shield. At the same time, **20%** of the damage dealt to a duckling (capped at **20%** of its max HP) is converted to boss damage after the shield is broken. Simply put, the Duck will take damage equal to **25%** of its max HP.
-	- Trigger **20** :ec:{EC|electro} \ {LEC|llc} reactions – in this case, the boss will only take recorded damage, without the additional damage from destroying ducklings.
+	- Trigger **20** :ec:{EC|electro} / {LEC|llc} reactions – in this case, the boss will only take recorded damage, without the additional damage from destroying ducklings.
 	
 	<br>
 

@@ -36,7 +36,7 @@ lang: en
 ### ✦ Stygian Onslaught
 - [Stygian 7.0](en/stygian-7.0_en)   
 - Early access: [1](https://youtu.be/xpsUA0yxZC4?si=vfy5UyflCjAfOVi6&t=1650) | [2](https://youtu.be/IVsEdsVhlB8?si=R_WP_GvtPjfsMsXF&t=783) | [3](https://youtu.be/dKcGT_7XFCs?si=GWb4vyLYYteCQk-a) | [4](https://youtu.be/mvxkNxjjA8Y?si=5YeiZ9cMIIOEasYr&t=902) | [5](https://www.bilibili.com/video/BV1Wtu463EqL/?share_source=copy_web&t=10)   
-- Guides/Showcases: [1](https://youtu.be/z7il8Q0OAhw?si=LiM6aKClCa8-bnUf) | [2](https://mobalytics.gg/genshin-impact/guides/stygian-onslaught-7-0)  
+- Guides/Showcases: [1](https://youtu.be/z7il8Q0OAhw?si=LiM6aKClCa8-bnUf) | [2](https://mobalytics.gg/genshin-impact/guides/stygian-onslaught-7-0) | [3](https://youtu.be/Buhr8p69c5M?si=ArZQI8wzgWGQPU3Y) | [4](https://youtu.be/8Hk8mgGq-pU?si=bvtoyMPaqdKsgEY0)  
 - Clears:  
 	- [Stygian.moe](https://stygian.moe) | [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRkpsezfJy9bjsy5Yg-Qg6Fs6Zv7DC9bCKYSYOlLRs-6LilrdD4pRuoMT0QYfxxHfJ3CWQdjcZMmxEf/pubhtml) | [DS](https://discord.gg/uYM7u7GzUN)  
 	- YT: [1](https://www.youtube.com/@karongenshin/videos) | [2](https://www.youtube.com/@Rhododo2/videos) | [3](https://www.youtube.com/@penguin_ichigo/videos) | [4](https://www.youtube.com/@vt-onYT) | [5](https://www.youtube.com/@san_kuru) | [6](https://www.youtube.com/@Latzzero/videos) | [7](https://www.youtube.com/@lil_dyl123) | [8](https://www.youtube.com/@minhhoang5944) | [9](https://www.youtube.com/@Azami_hoyo/videos)  
