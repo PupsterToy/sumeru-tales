@@ -1,6 +1,6 @@
 ---
-title: Churin
-lang: en
+title: Чурин
+lang: ru
 ---
 
 # ◈ Battle-Hardened Domovoy Sculptor (Чурин) ◈ 

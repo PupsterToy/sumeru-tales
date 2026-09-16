@@ -31,7 +31,7 @@ lang: en
 - Vodyanitsa: [1](https://mobalytics.gg/genshin-impact/characters/vodyanitsa-build-guide)  
   
 ### ✦ Stygian Onslaught
-- [Stygian 7.1](en/stygian-7.1_en)   
+- [Stygian 7.1](en/stygian_en)   
 - Early access: -  
 - Guides/Showcases: after _9/30_  
 - Clears:  

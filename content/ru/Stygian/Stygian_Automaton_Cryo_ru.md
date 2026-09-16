@@ -1,6 +1,6 @@
 ---
-title: Automaton (Cryo)
-lang: en
+title: Автоматон (Крио)
+lang: ru
 ---
 
 
