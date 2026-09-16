@@ -20,7 +20,7 @@ lang: en
 > [!note]- Click to expand
 > - 🛡️ **Shield** with **+210%** RES + summons **5 ducklings** (each = **25%** of boss HP :ec:{EC|electro} / {LEC|llc} damage increased by **150%**).
 >
-> - Two ways to break the shield: destroy **ducklings** → **-25%** boss HP, or trigger 20 :ec:{EC|electro} / {LEC|llc} **20 ** reactions → boss takes recorded damage. 
+> - Two ways to break the shield: destroy **ducklings** → **-25%** boss HP, or trigger 20 :ec:{EC|electro} / {LEC|llc} **20 ** reactions (per duckling) → boss takes recorded damage. 
 >
 > - After shield: stun :electro:{Electro|electro} RES **-110%**, others **-50%**. After stun: :electro:{Electro|electro} **-50%**, others **10%**. Recasts shield after **~45с**.
 
@@ -34,7 +34,7 @@ lang: en
 
 	The shield can be broken in two ways:
 	- Destroy all ducklings – each removes **20%** of the shield. At the same time, **20%** of the damage dealt to a duckling (capped at **20%** of its max HP) is converted to boss damage after the shield is broken. Simply put, the Duck will take damage equal to **25%** of its max HP.
-	- Trigger **20** :ec:{EC|electro} / {LEC|llc} reactions – in this case, the boss will only take recorded damage, without the additional damage from destroying ducklings.
+	- Trigger **20** :ec:{EC|electro} / {LEC|llc} reactions (counted individually for each duckling) – in this case, the boss will only take recorded damage, without the additional damage from destroying ducklings.
 	
 	<br>
 
@@ -48,15 +48,15 @@ lang: en
 ### 💡 Notes:
 
 > [!note]- Click to expand
-> - Before the boss dashes, a direction indicator appears on the floor. The attack hits very hard and has an AoE larger than the visual indicator. This forces you to dodge much more frequently and interrupts your rotation. Additionally, ducklings cannot be grouped, and their movement is quite chaotic (they can, for example, get stuck next to the Duck, or the Duck can push them around significantly during dashes). However, ducklings are slightly attracted to each other, as if magnetized   
-> - Since the boss constantly moves from one edge to the other, there's a chance that after the shield breaks, the boss will be far away from you, forcing you to run across the arena and waste a precious stun window. Try to stay close to the boss when the ducklings have low HP, and ideally set up your rotation in advance  
+> - Before the boss dashes, a direction indicator appears on the floor. The attack hits very hard and has an AoE larger than the visual indicator. This forces you to dodge much more frequently and interrupts your rotation. Additionally, ducklings cannot be grouped, and their movement is quite chaotic (they can, for example, get stuck next to the Duck, or the Duck can push them around significantly during dashes). Additionally, the ducklings get drawn together (anchored around the central duckling) and pulled toward the boss, as if magnetized   
+> - Since the boss constantly moves from one edge to the other, there's a chance that after the shield breaks, the boss will be far away from you, forcing you to run across the arena and waste a precious stun window. Try to stay close to the boss when the ducklings have low HP, and ideally set up your rotation in advance. Follow this same strategy near the end of Phase 2 before the boss re-shields and spawns ducklings — use the last few seconds to prepare for your next rotation  
 > - During the second cycle, the main problem will be finishing off the ducklings, even if on paper you have enough DPS. The Duck's aggressive behavior and the chaotic movement of the ducklings further complicate the process. If you fail to reach a certain HP breakpoint for the boss (~25%) in the first phase, you likely won't clear, and you can restart right away since you simply won't have enough time/damage for the ducklings or to finish off the boss after the stun. Naturally, this doesn't apply to strong/shilled teams and those capable of high burst damage in a short window, but rather to weaker teams clearing in the final seconds. In any case, results may vary per team
 
 #### ✦ Showcases  
-[1](https://youtu.be/dKcGT_7XFCs?si=sX9V_IKQH8woZfSV&t=85) | [2](https://youtu.be/qntxQx7Yiag?si=Yvxatem3Cf_YveRp&t=335) | [3](https://youtu.be/uvnjSgMg-v8?si=x1y4f6fEW6wEYdmE&t=1220)
+[1](https://youtu.be/z7il8Q0OAhw?si=gKT1xergVyba3xK4&t=649) | [2](https://youtu.be/qntxQx7Yiag?si=Yvxatem3Cf_YveRp&t=335) | [3](https://youtu.be/uvnjSgMg-v8?si=x1y4f6fEW6wEYdmE&t=1220) | [4](https://youtu.be/J8Wth3M37Js?si=brrsbF9SqAadQ_mk)
 
 ---
 
-**Sources**: Discord [JSM](https://discord.gg/M5GAfBBSsp) | [Lunaris](https://lunaris.moe/) | [Stygian](https://www.stygian.moe/) | [Reddit](https://www.reddit.com/r/Genshin_Impact_Leaks/new/) | #L4UR | #Pearl | #92_official
+**Sources**: Discord [JSM](https://discord.gg/M5GAfBBSsp) | [Lunaris](https://lunaris.moe/) | [Stygian](https://www.stygian.moe/) | #L4UR | #Pearl | #92_official
 
-#stygian #stygian70 #guides #mechanics
+#stygian #guides #mechanics

@@ -23,7 +23,7 @@ lang: en
 >
 > - 🩸 **{Bond of Life|bol}** applied to all party members on shield cast: **27100/29028** (D5/D6) + **8130/8708** every second while shield is active.
 >
-> - **Special attack:** consumes 🩸 **{5%|bol}** HP → on hit, inflicts 🩸 {Bond of Life|bol} and Bleed on active character + Operative restores  ❤️ **{5%|bol}** HP.
+> - **Special attack:** consumes 🩸 **{2%|bol}** HP → on hit, inflicts 🩸 {Bond of Life|bol} and Bleed on active character + Operative restores  ❤️ **{5%|bol}** HP.
 >
 > - Cheese tactics **no longer** work – boss instantly teleports away.
 
@@ -43,13 +43,14 @@ lang: en
 2. Immediately after casting the shield, applies 🩸 {Bond of Life|bol} to all party members worth **27100/29028** (D5/D6), adding an extra **8130/8708** very second while the shield is active.
 <br>
 
-3. Before performing the special attack, consumes 🩸 **{5%|bol}** of its own HP. On hit against your on-field character, the Operative not only inflicts 🩸 {Bond of Life|bol} and Bleed on them, but also restores ❤️ **{5%|bol}** HP.
+3. Before performing the special attack, consumes 🩸 **{2%|bol}** of its own HP. On hit against your on-field character, the Operative not only inflicts 🩸 {Bond of Life|bol} and Bleed on them, but also restores ❤️ **{5%|bol}** HP.
 
 ---
 
 ### 💡 Notes:
 
 > [!note]- Click to expand
+> - Melt and Vape reactions don't work on "white" Shield
 > - Try to dodge special attacks as often as possible (without sacrificing your main damage output, of course), as this prevents the boss from healing and gives you "free" damage 
 > - This version of the Operative has more readable attack patterns, making them easier to dodge
 > - Characters affected by Bond of Life take increased damage 
@@ -57,10 +58,10 @@ lang: en
 > - Overall, due to reduced aggressiveness and lower movement frequency, your DPS is indirectly increased, which partially compensates for the boss's increased HP
 
 #### ✦ Showcases  
-[1](https://youtu.be/dKcGT_7XFCs?si=F_9VsS3bD2-ooyFW&t=549) | [2](https://youtu.be/mvxkNxjjA8Y?si=5YeiZ9cMIIOEasYr&t=902) | [3](https://www.bilibili.com/video/BV1Wtu463EqL/?share_source=copy_web&t=10)
+[1](https://youtu.be/z7il8Q0OAhw?si=h22DUm4JZn_ad_w2&t=374) | [2](https://youtu.be/Buhr8p69c5M?si=Uz7m8deDaFnEFZN1&t=369) | [3](https://youtu.be/8Hk8mgGq-pU?si=AysldtSE7V4EsgSS&t=836)
 
 ---
 
-**Sources**: Discord [JSM](https://discord.gg/M5GAfBBSsp) | [Lunaris](https://lunaris.moe/) | [Stygian](https://www.stygian.moe/) | [Reddit](https://www.reddit.com/r/Genshin_Impact_Leaks/new/) | #L4UR | #Pearl | #92_official
+**Sources**: Discord [JSM](https://discord.gg/M5GAfBBSsp) | [Lunaris](https://lunaris.moe/) | [Stygian](https://www.stygian.moe/) | #L4UR | #Pearl | #92_official
 
-#stygian #stygian70 #guides #mechanics
+#stygian #guides #mechanics
