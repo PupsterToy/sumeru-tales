@@ -32,7 +32,7 @@ lang: en
   
 ### ✦ Stygian Onslaught
 - [Stygian 7.1](en/stygian-7.1_en)   
-- Early access: [1](https://youtu.be/xpsUA0yxZC4?si=vfy5UyflCjAfOVi6&t=1650) | [2](https://youtu.be/IVsEdsVhlB8?si=R_WP_GvtPjfsMsXF&t=783) | [3](https://youtu.be/dKcGT_7XFCs?si=GWb4vyLYYteCQk-a) | [4](https://youtu.be/mvxkNxjjA8Y?si=5YeiZ9cMIIOEasYr&t=902) | [5](https://www.bilibili.com/video/BV1Wtu463EqL/?share_source=copy_web&t=10)   
+- Early access: -  
 - Guides/Showcases: after _9/30_  
 - Clears:  
 	- [Stygian.moe](https://stygian.moe) | [Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRkpsezfJy9bjsy5Yg-Qg6Fs6Zv7DC9bCKYSYOlLRs-6LilrdD4pRuoMT0QYfxxHfJ3CWQdjcZMmxEf/pubhtml) | [DS](https://discord.gg/uYM7u7GzUN)  

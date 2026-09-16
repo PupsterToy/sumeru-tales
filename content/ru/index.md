@@ -32,7 +32,7 @@ lang: ru
   
 ### ✦ Мрачный Натиск  
 - [Натиск 7.1](ru/stygian-7.1_ru)
-- Ранний доступ: [1](https://youtu.be/xpsUA0yxZC4?si=vfy5UyflCjAfOVi6&t=1650) | [2](https://youtu.be/IVsEdsVhlB8?si=R_WP_GvtPjfsMsXF&t=783) | [3](https://youtu.be/dKcGT_7XFCs?si=GWb4vyLYYteCQk-a) | [4](https://youtu.be/mvxkNxjjA8Y?si=5YeiZ9cMIIOEasYr&t=902) | [5](https://www.bilibili.com/video/BV1Wtu463EqL/?share_source=copy_web&t=10)   
+- Ранний доступ: -   
 - Гайды/Шоукейсы: после _30.09_  
 - Проходки:  
 	- [Stygian.moe](https://stygian.moe) | [Табличка](https://docs.google.com/spreadsheets/d/e/2PACX-1vRkpsezfJy9bjsy5Yg-Qg6Fs6Zv7DC9bCKYSYOlLRs-6LilrdD4pRuoMT0QYfxxHfJ3CWQdjcZMmxEf/pubhtml) | [DS](https://discord.gg/uYM7u7GzUN)  
