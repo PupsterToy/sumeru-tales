@@ -32,6 +32,7 @@ lang: en
   
 ### ✦ Stygian Onslaught
 - [Stygian 7.1](en/stygian_en)   
+- Beta [calcs](https://docs.google.com/spreadsheets/d/1HpEnA4eXmFfV9vwU0LGMtHbniSCqZig9LgP7t_qGdoU/edit?gid=350384834#gid=350384834&range=A104:A108)  
 - Early access: -  
 - Guides/Showcases: after _9/30_  
 - Clears:  

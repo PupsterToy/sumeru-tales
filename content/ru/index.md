@@ -31,7 +31,8 @@ lang: ru
 - Водяница: [1](https://mobalytics.gg/genshin-impact/characters/vodyanitsa-build-guide)  
   
 ### ✦ Мрачный Натиск  
-- [Натиск 7.1](ru/stygian_ru)
+- [Натиск 7.1](ru/stygian_ru)  
+- [Расчёты] (https://docs.google.com/spreadsheets/d/1HpEnA4eXmFfV9vwU0LGMtHbniSCqZig9LgP7t_qGdoU/edit?gid=350384834#gid=350384834&range=A104:A108) с беты  
 - Ранний доступ: -   
 - Гайды/Шоукейсы: после _30.09_  
 - Проходки:  
