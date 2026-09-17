@@ -50,8 +50,8 @@ lang: en
 > - Without Stellar comps, due to the boss's mechanics, attempts to brute-force D6 will result in a significant cost increase. And it still won't be accessible to just any team  
 > - (7.1) Even though this Stygian features two bosses designed around SG, you should prioritize Churin, since Snowmaiden is much easier to clear by comparison. You can put a weaker second Stellar comp there (if you have one), or comfortably do without one entirely    
 
-#### ✦ Showcases (world version)   
-[1](https://www.youtube.com/results?search_query=genshin+churin) | [2](https://www.twitch.tv/videos/2861428231?t=00h15m47s)
+#### ✦ Showcases   
+[1](https://youtu.be/2-FNHusn4BY?si=iItkgQF8mp3jUDtx&t=1426) | [2](https://youtu.be/MKqMbYXsXjc?si=13LaNpY8mb1PJObc) | [3](https://youtu.be/PifBLNaoeCo?si=oIlub6xaZCWHOStX&t=1278)  
 
 ---
 

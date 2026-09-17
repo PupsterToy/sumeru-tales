@@ -55,6 +55,9 @@ lang: en
 > - If you convert the shield with SG after already depleting a portion of the elemental shield, the progress carries over    
 > - (7.1) As for team comps, prioritize Churin first – SG characters are far more important there. Snowmaiden's mechanics punish non-SG teams significantly less  
 
+#### ✦ Showcases
+[1](https://youtu.be/MKqMbYXsXjc?si=bfLppmHI65tCCP78&t=104) | [2](https://youtu.be/PifBLNaoeCo?si=2M-0GxTh9yh0nlLj&t=1519)  
+
 ---
 
 **Sources**: Discord [JSM](https://discord.gg/M5GAfBBSsp) | [Lunaris](https://lunaris.moe/) | [Stygian](https://www.stygian.moe/) | #L4UR | #Pearl | #92_official | #Bwuh

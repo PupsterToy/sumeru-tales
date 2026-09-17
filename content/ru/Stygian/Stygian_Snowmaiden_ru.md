@@ -55,6 +55,10 @@ lang: ru
 > - Если вы преобразуете щит с помощью  ЗБ, когда уже снесли какой-то процент элементального щита, то прогресс сохранится  
 > - (7.1) При составлении команд отдайте приоритет Чурину, там персонажи ЗБ намного важнее. Механики Снегурки существенно меньше наказывают за отсутствие реакций ЗБ  
 
+
+#### ✦ Демонстрация
+[1](https://youtu.be/MKqMbYXsXjc?si=bfLppmHI65tCCP78&t=104) | [2](https://youtu.be/PifBLNaoeCo?si=2M-0GxTh9yh0nlLj&t=1519)  
+
 ---
 
 **Источники**: Discord [JSM](https://discord.gg/M5GAfBBSsp) | [Lunaris](https://lunaris.moe/) | [Stygian](https://www.stygian.moe/) | #L4UR | #Pearl | #92_official | #Bwuh

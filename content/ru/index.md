@@ -12,7 +12,7 @@ lang: ru
 
 
 > ⚠️ Здесь выкладывается предрелизная информация и гайды/шоукейсы по натиску (после выхода). Страница будет обновляться каждую бету после v5.  
-> ✅ Последнее обновление: **7.1 v5 хотфикс**
+> ✅ Последнее обновление: **7.1 рд**
 
 --- 
   
@@ -27,13 +27,13 @@ lang: ru
 ---
   
 ### ✦ Гайды по персам  
-- Весна: [1](https://mobalytics.gg/genshin-impact/characters/vesna-build-guide) | [2](https://docs.google.com/spreadsheets/d/1Ve9LErxpIwv5JYNbOG5JXKiJSxkpGShFOJL6JROfY_A/edit?gid=0#gid=0)  
-- Водяница: [1](https://mobalytics.gg/genshin-impact/characters/vodyanitsa-build-guide)  
+- Весна: [1](https://youtu.be/AtAX2jhLAPU?si=ZifqEDROPfPYvh2P) | [2](https://youtu.be/2-FNHusn4BY?si=KuPGsZkF-bYXRBDp) | [3](https://youtu.be/9USbTicdqyI?si=FIZZ3ILolmGlf9hn) | [4](https://youtu.be/5MDoKNwgOTc?si=1joOVRmcBoaFXGRE) | [5](https://mobalytics.gg/genshin-impact/characters/vesna-build-guide) | [6](https://www.prydwen.gg/genshin-impact/characters/vesna#profile) | [7](https://docs.google.com/spreadsheets/d/1Ve9LErxpIwv5JYNbOG5JXKiJSxkpGShFOJL6JROfY_A/edit?gid=0#gid=0)  
+- Водяница: [1](https://youtu.be/LcRyalpL0Iw?si=8PbbpNMuhFpiGpc_) | [2](https://mobalytics.gg/genshin-impact/characters/vodyanitsa-build-guide) | [3](https://www.prydwen.gg/genshin-impact/characters/vodyanitsa#profile)  
   
 ### ✦ Мрачный Натиск  
 - [Натиск 7.1](ru/stygian_ru)  
 - [Расчёты](https://docs.google.com/spreadsheets/d/e/2PACX-1vScTONdKyfoJnoaxfdUjDNDzfbdehRJIHPaY64L7q8qJnSXJdjPDEty9iNLQ0ETd1kxLH2AF08_RoAQ/pubhtml?gid=350384834&single=true&range=B104:C108) с беты  
-- Ранний доступ: -   
+- Ранний доступ: [1](https://youtu.be/2-FNHusn4BY?si=iItkgQF8mp3jUDtx&t=1426) | [2](https://youtu.be/MKqMbYXsXjc?si=KhV-EFECsuAPmjTi) | [3](https://youtu.be/PifBLNaoeCo?si=_ZAKyyAYH7gOG_hz&t=1278)   
 - Гайды/Шоукейсы: после _30.09_  
 - Проходки:  
 	- [Stygian.moe](https://stygian.moe) | [Табличка](https://docs.google.com/spreadsheets/d/e/2PACX-1vRkpsezfJy9bjsy5Yg-Qg6Fs6Zv7DC9bCKYSYOlLRs-6LilrdD4pRuoMT0QYfxxHfJ3CWQdjcZMmxEf/pubhtml) | [DS](https://discord.gg/uYM7u7GzUN)  
