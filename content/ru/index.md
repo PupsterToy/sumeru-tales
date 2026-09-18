@@ -12,7 +12,7 @@ lang: ru
 
 
 > ⚠️ Здесь выкладывается предрелизная информация и гайды/шоукейсы по натиску (после выхода). Страница будет обновляться каждую бету после v5.  
-> ✅ Последнее обновление: **7.1 рд**
+> ✅ Последнее обновление: **7.1 ранний доступ**
 
 --- 
   
@@ -22,13 +22,13 @@ lang: ru
 
 > [!info] Важно   &#8203; ⠀  &emsp;
 > - В пачках Скирк польза Водяницы тем выше, чем хуже ваши комбо (из-за ограниченного количества зарядов A4).  
-> - Весна очень зависима от наличия щита или дополнительных источников повышения сопротивления к прерыванию (IR). К тому же, увороты отменяют атаку усиленной Ешки (именно отменяют, а не срывают, как у Нефер). То же самое происходит и с нажатием ульты после sE – нужно дождаться окончания анимации и только потом жать Q.  
+> - Весна очень зависима от наличия щита или дополнительных источников повышения сопротивления к прерыванию (IR). К тому же, увороты отменяют атаку усиленной Ешки (именно отменяют, а не срывают, как у Нефер). То же самое происходит и с использованием ульты после sE – нужно дождаться окончания анимации и только потом жать Q.  
 
 ---
   
 ### ✦ Гайды по персам  
 - Весна: [1](https://youtu.be/AtAX2jhLAPU?si=ZifqEDROPfPYvh2P) | [2](https://youtu.be/2-FNHusn4BY?si=KuPGsZkF-bYXRBDp) | [3](https://youtu.be/9USbTicdqyI?si=FIZZ3ILolmGlf9hn) | [4](https://youtu.be/5MDoKNwgOTc?si=1joOVRmcBoaFXGRE) | [5](https://mobalytics.gg/genshin-impact/characters/vesna-build-guide) | [6](https://www.prydwen.gg/genshin-impact/characters/vesna#profile) | [7](https://docs.google.com/spreadsheets/d/1Ve9LErxpIwv5JYNbOG5JXKiJSxkpGShFOJL6JROfY_A/edit?gid=0#gid=0)  
-- Водяница: [1](https://youtu.be/LcRyalpL0Iw?si=8PbbpNMuhFpiGpc_) | [2](https://mobalytics.gg/genshin-impact/characters/vodyanitsa-build-guide) | [3](https://www.prydwen.gg/genshin-impact/characters/vodyanitsa#profile)  
+- Водяница: [1](https://youtu.be/LcRyalpL0Iw?si=8PbbpNMuhFpiGpc_)  | [2](https://youtu.be/550kbg_Zoss?si=rUiLakIBZFB56uF5) | [3](https://mobalytics.gg/genshin-impact/characters/vodyanitsa-build-guide) | [4](https://www.prydwen.gg/genshin-impact/characters/vodyanitsa#profile)  
   
 ### ✦ Мрачный Натиск  
 - [Натиск 7.1](ru/stygian_ru)  
