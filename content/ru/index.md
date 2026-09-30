@@ -32,9 +32,9 @@ lang: ru
   
 ### ✦ Мрачный Натиск  
 - [Натиск 7.1](ru/stygian_ru)  
-- [Расчёты](https://docs.google.com/spreadsheets/d/e/2PACX-1vScTONdKyfoJnoaxfdUjDNDzfbdehRJIHPaY64L7q8qJnSXJdjPDEty9iNLQ0ETd1kxLH2AF08_RoAQ/pubhtml?gid=350384834&single=true&range=B104:C108) с беты  
+- [Расчёты](https://docs.google.com/spreadsheets/d/e/2PACX-1vScTONdKyfoJnoaxfdUjDNDzfbdehRJIHPaY64L7q8qJnSXJdjPDEty9iNLQ0ETd1kxLH2AF08_RoAQ/pubhtml?gid=350384834&single=true&range=B106:C110) с беты  
 - Ранний доступ: [1](https://youtu.be/2-FNHusn4BY?si=iItkgQF8mp3jUDtx&t=1426) | [2](https://youtu.be/MKqMbYXsXjc?si=KhV-EFECsuAPmjTi) | [3](https://youtu.be/PifBLNaoeCo?si=_ZAKyyAYH7gOG_hz&t=1278)   
-- Гайды/Шоукейсы: после _30.09_  
+- Гайды/Шоукейсы: [1](https://youtu.be/3WdYoLEmDaU?si=joNaOkfPW654jkdS)    
 - Проходки:  
 	- [Stygian.moe](https://stygian.moe) | [Табличка](https://docs.google.com/spreadsheets/d/e/2PACX-1vRkpsezfJy9bjsy5Yg-Qg6Fs6Zv7DC9bCKYSYOlLRs-6LilrdD4pRuoMT0QYfxxHfJ3CWQdjcZMmxEf/pubhtml) | [DS](https://discord.gg/uYM7u7GzUN)  
 	- YT: [1](https://www.youtube.com/@karongenshin/videos) | [2](https://www.youtube.com/@Rhododo2/videos) | [3](https://www.youtube.com/@penguin_ichigo/videos) | [4](https://www.youtube.com/@vt-onYT) | [5](https://www.youtube.com/@san_kuru) | [6](https://www.youtube.com/@Latzzero/videos) | [7](https://www.youtube.com/@lil_dyl123) | [8](https://www.youtube.com/@minhhoang5944) | [9](https://www.youtube.com/@Azami_hoyo/videos)  
